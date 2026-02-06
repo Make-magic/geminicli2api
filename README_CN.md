@@ -1,14 +1,3 @@
----
-title: Gemini CLI 转 API 代理
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
- sdk: docker
-pinned: false
-license: mit
-app_port: 7860
----
-
 # Gemini CLI 转 API 代理 (geminicli2api)
 
 这是一个基于 FastAPI 的代理服务器，它将 Gemini CLI 工具转换为兼容 OpenAI 和原生 Gemini API 的端点。这使您可以通过熟悉的 OpenAI API 接口或直接的 Gemini API 调用来利用 Google 的免费 Gemini API 配额。
