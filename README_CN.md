@@ -1,6 +1,6 @@
 # Gemini CLI 转 API 代理 (geminicli2api)
 
-geminicli2api是一个基于 FastAPI 的代理服务器，通过将 Gemini CLI 工具转换为兼容 OpenAI 和原生 Gemini API 的端点。这使您可以通过熟悉的 OpenAI API 接口或直接的 Gemini API 调用来利用 Google 的免费 Gemini API 配额。OK
+geminicli2api是一个基于 FastAPI 的代理服务器，通过将 Gemini CLI 工具转换为兼容 OpenAI 和原生 Gemini API 的端点。这使您可以通过熟悉的 OpenAI API 接口或直接的 Gemini API 调用来利用 Google 的免费 Gemini API 配额。
 
 ## 🚀 功能特性
 
