@@ -14,7 +14,7 @@ geminicli2api是一个基于 FastAPI 的代理服务器，通过将 Gemini CLI �
 - **Docker 就绪**：容器化设计，易于部署
 - **Hugging Face Spaces**：已准备好部署到 Hugging Face Spaces
 
-## 🔧 环境变量
+## 🔧 环境变量?
 
 ### 必填项
 - `GEMINI_AUTH_PASSWORD`: API 访问的认证密码
